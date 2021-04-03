@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="{% static 'style2.css' %}">
+</head>
+<body>
+<div class="topnav">
+    <a href="http://127.0.0.1:8000/api">to api page - click here</a>
+</div>
+{% for employee in employees %}
+<div class="gallery">
+    <img src="/media/{{employee.image}}">
+    <h3 class="title"> {{employee.first_name}} {{employee.last_name}} </h3>
+    <h2 class="job_id">{{employee.job_id}}</h2>
+    <p class="job_description">
+      Email: {{employee.email}}<br> Phone Number: {{employee.phone_number}}<br>
+                            Hire Date: {{employee.hire_date}}<br>
+                            Manager ID: {{employee.manager_id}}<br> Department ID: {{employee.department_id}}</h3><br>
+    </p>
+</div>
+ {% endfor %}
+</body>
+</html>

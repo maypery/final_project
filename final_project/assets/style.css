@@ -1,0 +1,17 @@
+
+img {
+  object-fit: cover;
+  width:230px;
+  height:230px;
+}
+
+
+.content {
+        font-size: 20px;
+        padding-left: 20px;
+        align: right;
+}
+.text{
+      text-align: left;
+      align: left;
+}

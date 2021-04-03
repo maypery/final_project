@@ -1,0 +1,14 @@
+Mika Zen
+{"employee_id": 103, "first_name": "Mika", "last_name": "Zen", "email": "mikaz@netwho.com", "phone_number": "0540969909", "hire_date": "01/07/2000", "job_id": "CHRO", "salary": 25000, "commission_pct": 0, "manager_id": 100, "department_id": 60}
+Leo Seven
+{"employee_id": 104, "first_name": "Leo", "last_name": "Seven", "email": "leos@netwho.com", "phone_number": "0542495506", "hire_date": "01/08/2001", "job_id": "Marketing Manager", "salary": 15000, "commission_pct": 0, "manager_id": 100, "department_id": 50}
+Ariel Johnson
+{"employee_id": 105, "first_name": "Ariel", "last_name": "Johnson", "email": "arielj@netwho.com", "phone_number": "0543094495", "hire_date": "01/08/2000", "job_id": "Engineering Manager", "salary": 28000, "commission_pct": 0, "manager_id": 102, "department_id": 70}
+Kendell Brofs
+{"employee_id": 106, "first_name": "Kendell", "last_name": "Brofs", "email": "kendellb@netwho.com", "phone_number": "0543309940", "hire_date": "01/08/2000", "job_id": "Software Architect", "salary": 25000, "commission_pct": 0, "manager_id": 102, "department_id": 70}
+Lia Aven
+{"employee_id": 108, "first_name": "Lia", "last_name": "Aven", "email": "liaven@netwho.com", "phone_number": "0548092203", "hire_date": "01/12/2001", "job_id": "Sales Officer", "salary": 15000, "commission_pct": 0, "manager_id": 104, "department_id": 50}
+Daniel Wize
+{"employee_id": 109, "first_name": "Daniel", "last_name": "Wize", "email": "danielw@netwho.com", "phone_number": "0546079930", "hire_date": "01/08/2000", "job_id": "QA Manager", "salary": 17000, "commission_pct": 0, "manager_id": 102, "department_id": 70}
+Kobi London
+{"employee_id": 110, "first_name": "Kobi", "last_name": "London", "email": "kobil@netwho.com", "phone_number": "0547609927", "hire_date": "01/12/2001", "job_id": "Customers Service Manager", "salary": 12000, "commission_pct": 0, "manager_id": 104, "department_id": 50}
